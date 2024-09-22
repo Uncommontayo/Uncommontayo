@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on building scalable AI/ML solutions at MoniMoore, focusing on real-time financial risk analysis and fraud detection.
+- 🔭 I’m recently worked on building scalable AI/ML solutions at MoniMoore, focusing on real-time financial risk analysis and fraud detection in a contract role.
 - 🌱 I’m currently learning advanced techniques in Computer Vision and Recommendation Systems.
 - 👯 I’m looking to collaborate on open-source AI/ML projects, particularly those involving NLP and cloud-based ML model deployment.
 - 🤔 I’m looking for help with exploring the latest advances in AI ethics and model interpretability for large language models.
