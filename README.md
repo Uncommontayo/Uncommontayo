@@ -12,6 +12,6 @@
 -->
 
 💻 Tech Stack:
-Python R AWS Azure Anaconda MySQL   PyTorch scikit-learn SciPy TensorFlow Kubernetes Docker Keras NumPy Pandas Plotly
+Python R AWS Azure Anaconda MySQL JavaScripts  PyTorch scikit-learn SciPy TensorFlow Kubernetes Docker Keras NumPy Pandas Plotly
 
 📊 GitHub Stats:
