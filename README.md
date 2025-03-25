@@ -1,5 +1,5 @@
 ## Hi there 👋
-I BUILD STUFFS!
+I SIMPLY BUILD STUFFS!
 
 - 🔭 I’m recently worked on building scalable AI/ML solutions, focusing on real-time financial risk analysis and fraud detection.
 - 🌱 I’m currently learning state-of-the-art advanced techniques in Artificial Intelligence Technology.
