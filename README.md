@@ -1,7 +1,7 @@
 ## Hi there 👋
 I SIMPLY BUILD STUFFS!
 
-- 🔭 I’m recently worked on building scalable AI/ML solutions, focusing on real-time financial risk analysis and fraud detection.
+- 🔭 I’m recently working on building scalable AI/ML solutions.
 - 🌱 I’m currently learning state-of-the-art advanced techniques in Artificial Intelligence Technology.
 - 👯 I’m looking to collaborate on open-source AI/ML projects, particularly those involving NLP and cloud-based ML model deployment.
 - 🤔 I’m actively exploring the latest advances in AI ethics and model interpretability for large language models.
